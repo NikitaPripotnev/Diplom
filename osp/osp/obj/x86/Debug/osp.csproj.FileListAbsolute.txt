@@ -1,0 +1,34 @@
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\osp.Properties.Resources.resources
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\bin\Debug\osp.exe
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\bin\Debug\osp.pdb
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\osp.exe
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\osp.pdb
+C:\Igor\NAUKA\Visual Studio\OSP\osp\osp\obj\x86\Debug\osp.ospmain.resources
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\osp.exe
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\osp.pdb
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\bin\Debug\osp.exe
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\bin\Debug\osp.pdb
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\osp.ospmain.resources
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\osp.Properties.Resources.resources
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Igor\NAUKA\Visual Studio\OSP\osp_cluster\osp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.exe
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.pdb
+C:\0\For Pripotnev\osp\osp\bin\Debug\osp.exe
+C:\0\For Pripotnev\osp\osp\bin\Debug\osp.pdb
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.csprojResolveAssemblyReference.cache
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.ospmain.resources
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.Properties.Resources.resources
+C:\0\For Pripotnev\osp\osp\obj\x86\Debug\osp.csproj.GenerateResource.Cache
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.exe
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.pdb
+C:\Users\никитапс\Desktop\osp\osp\bin\Debug\osp.exe
+C:\Users\никитапс\Desktop\osp\osp\bin\Debug\osp.pdb
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.csprojResolveAssemblyReference.cache
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.ospmain.resources
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.Properties.Resources.resources
+C:\Users\никитапс\Desktop\osp\osp\obj\x86\Debug\osp.csproj.GenerateResource.Cache

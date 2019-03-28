@@ -1,0 +1,11 @@
+C:\Users\никитапс\Desktop\osp\osp\bin\x64\Release\osp.exe.config
+C:\Users\никитапс\Desktop\osp\osp\bin\x64\Release\osp.exe
+C:\Users\никитапс\Desktop\osp\osp\bin\x64\Release\osp.pdb
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.ospmain.resources
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.Properties.Resources.resources
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.csproj.GenerateResource.Cache
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.exe
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.pdb
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.csprojAssemblyReference.cache
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.csproj.CoreCompileInputs.cache
+C:\Users\никитапс\Desktop\osp\osp\obj\x64\Release\osp.csproj.CopyComplete
