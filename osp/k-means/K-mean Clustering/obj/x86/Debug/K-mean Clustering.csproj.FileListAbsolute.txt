@@ -1,0 +1,9 @@
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\bin\Debug\K-mean Clustering.exe
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\bin\Debug\K-mean Clustering.pdb
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csprojAssemblyReference.cache
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K_mean_Clustering.Form1.resources
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K_mean_Clustering.Properties.Resources.resources
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csproj.GenerateResource.cache
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K-mean Clustering.csproj.CoreCompileInputs.cache
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K-mean Clustering.exe
+C:\Users\никитапс\projects\K_mean_Clustering\K-mean Clustering\obj\x86\Debug\K-mean Clustering.pdb
